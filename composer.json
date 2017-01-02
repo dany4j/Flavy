@@ -1,5 +1,5 @@
 {
-  "name": "folour/flavy",
+  "name": "intelisol/flavy",
   "description": "FFmpeg layer for Laravel 5.*, this is a fork of rafasamp/sonus package",
   "keywords": ["laravel", "ffmpeg", "audio", "video", "converter", "conversion", "video thumbnailer"],
   "minimum-stability": "stable",
